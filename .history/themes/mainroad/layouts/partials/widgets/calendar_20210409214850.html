@@ -1,0 +1,32 @@
+<div class="widget-recent widget">
+  <h4 class="widget__title">Calendar</h4>
+  <div class="widget__content" style="padding-left: 2em; text-indent: -2em;" id="calendar">
+    <script>
+      // The events URL comes from https://www.sau39.org/page/2 by clicking
+      // "Subscribe" to RSS feed, using .json instead of .rss in the path.
+      // CORS is handled on the server in the netlify.toml [[redirects]] settings.
+      const url = 'https://www.trumba.com/calendars/sau39-master.json?mixin=823099%2c823106%2c771757';
+      const corsUrl = window.location.hostname === "localhost"
+        ? `https://cors-anywhere.herokuapp.com/${url}`
+        : "/asb-calendar";
+      fetch(corsUrl).then((res) => {
+        try {
+          res.json().then(doc => {
+            const MAX_EVENTS = 5;
+            let events = '';
+            doc.slice(0, MAX_EVENTS).forEach((event) => {
+              const { title, startDateTime, permaLinkUrl } = event;
+              const startDate = new Date(startDateTime).toLocaleDateString();
+              events += `<a href="${permaLinkUrl}">${startDate} ${title}</a><p/>`;
+            });
+            events += '<a href="https://www.sau39.org/page/2">More...</a>';
+            document.getElementById('calendar').innerHTML = events;
+          });
+        } catch (e) {
+          console.error('Error in parsing the calendar feed');
+          console.error(e);
+        }
+      })
+    </script>
+  </div>
+</div>

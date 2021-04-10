@@ -1,0 +1,21 @@
+# Global settings applied to the whole site.
+[build]
+  publish = "public"
+    command = "hugo"
+
+    [context.production.environment]
+      HUGO_ENV = "production"
+
+      [context.deploy-preview]
+        command = "hugo --baseURL $DEPLOY_PRIME_URL"
+
+# Branch Deploy context: All deploys that are not in
+# an active Deploy Preview will inherit these settings.
+[context.branch-deploy]
+  command = "hugo --baseURL $DEPLOY_PRIME_URL"
+
+[[redirects]]
+  from = "/cors-proxy/*"
+  to = ":splat"
+  status = 200
+  force = true

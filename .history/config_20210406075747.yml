@@ -1,0 +1,21 @@
+baseURL: "/"
+languageCode: "en-US"
+title: "Amherst School Board"
+theme: "mainroad"
+# sectionPagesMenu: "secondary"
+# pluralizeListTitles: false
+# copyright: "Attribution-NonCommercial-ShareAlike 4.0 International"
+paginate: 3
+# summaryLength: 13
+author:
+  name: "Amherst School Board"
+  email: "helo@forestgarden.wales"
+
+params:
+  description: "(Unofficial) Test website for the school board of Amherst, New Hampshire"
+  publisher: "Amherst School Board"
+  publisherLogo: "images/logo-thumbnail.png"
+  publisherLogoWidth: 220
+  publisherLogoHeight: 220
+  email: "asbwebsite@sau39.org"
+  

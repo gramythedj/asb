@@ -8,7 +8,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 # pluralizeListTitles: false
 # copyright: "Attribution-NonCommercial-ShareAlike 4.0 International"
 paginate: 3
-# summaryLength: 13
+summaryLength: 13
 author:
   name: "Amherst School Board"
   email: "helo@forestgarden.wales"

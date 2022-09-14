@@ -1,6 +1,6 @@
 ---
 title: 'Anime Characters Won Fights In Clever Ways'
-date: 2022-09-14T02:50:00.007-07:00
+date: 2020-09-14T02:50:00.007-07:00
 draft: false
 url: /2020/09/anime-characters-won-fights-in-clever.html
 tags: 

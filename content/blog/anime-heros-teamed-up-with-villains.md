@@ -1,6 +1,6 @@
 ---
 title: 'Anime Heros Teamed up with Villains'
-date: 2022-09-13T06:41:00.008-07:00
+date: 2020-09-13T06:41:00.008-07:00
 draft: false
 url: /2020/09/anime-heros-teamed-up-with-villains.html
 tags: 

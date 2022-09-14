@@ -7,7 +7,7 @@ googleAnalytics: "" # Enable Google Analytics by entering your tracking id
 # sectionPagesMenu: "secondary"
 # pluralizeListTitles: false
 # copyright: "Attribution-NonCommercial-ShareAlike 4.0 International"
-paginate: 3
+paginate: 7
 summaryLength: 13
 author:
   name: "Amherst School Board"

@@ -1,6 +1,6 @@
 ---
 title: '8 facts about Hawk, the seven deadly sins comic character'
-date: 2020-10-29T07:14:00.003-07:00
+date: 2022-10-29T07:14:00.003-07:00
 draft: false
 url: /2020/10/8-facts-about-hawk-seven-deadly-sins.html
 tags: 

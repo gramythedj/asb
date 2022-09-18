@@ -10,6 +10,6 @@ imageCap: ""
 draft: false
 ---
 
-Welcome to the Amherst School Board communications website.
+Welcome to the ANIMECRUSH website.
 
 ---

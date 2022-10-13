@@ -15,7 +15,7 @@ author:
 
 
 permalinks:
-  posts: /:slug/
+  post = "/:title"
 
 params:
   description: "(Unofficial) Test website for the school board of Amherst, New Hampshire"

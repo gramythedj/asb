@@ -1,7 +1,6 @@
 ---
-permalink: '/best-alarm-clock-spy-camera/'
-aliases:
-    - /best-alarm-clock-spy-camera/
+permalink: /best-alarm-clock-spy-camera/
+
 title:  Best Alarm Clock Spy Camera | Buyer’s Guide
 description: a little Review on Alarm Spy Cameras
 date: 2022-09-20

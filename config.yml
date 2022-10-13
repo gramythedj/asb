@@ -12,6 +12,8 @@ summaryLength: 13
 author:
   name: "GizmoGod"
   email: "Gizmogod@gmail.com"
+
+
 permalinks:
   posts: /:title/
 

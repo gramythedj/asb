@@ -1,6 +1,6 @@
 baseURL: "https://asbwebsite.netlify.app/"
 languageCode: "en-US"
-title: "ANIMECRUSH"
+title: "buy-digital-camera.org"
 theme: "mainroad"
 disqusShortname: "" # Enable comments by entering your Disqus shortname
 googleAnalytics: "" # Enable Google Analytics by entering your tracking id
@@ -10,8 +10,8 @@ googleAnalytics: "" # Enable Google Analytics by entering your tracking id
 paginate: 7
 summaryLength: 13
 author:
-  name: "Amherst School Board"
-  email: "helo@forestgarden.wales"
+  name: "GizmoGod"
+  email: "Gizmogod@gmail.com"
 
 params:
   description: "(Unofficial) Test website for the school board of Amherst, New Hampshire"

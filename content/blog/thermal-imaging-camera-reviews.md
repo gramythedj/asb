@@ -3,7 +3,7 @@ url: '/thermal-imaging-camera-reviews/'
 title: Thermal Imaging Camera Reviews 
 description: a little Review on Thermal Imaging Camera
 date: 2022-09-16
-thumbnail: thermal.jpg
+thumbnail: images/thermal.jpg
 thumbnailAlt: Thermal camera
 tags:
   - camera

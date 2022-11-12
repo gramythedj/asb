@@ -1,4 +1,4 @@
-baseURL: "https://asbwebsite.netlify.app/"
+baseURL: "https://buy-digital-camera.org/"
 languageCode: "en-US"
 title: "buy-digital-camera.org"
 theme: "mainroad"
@@ -14,12 +14,9 @@ author:
   email: "Gizmogod@gmail.com"
 
 
-permalinks:
-  posts = "/:title"
-
 params:
-  description: "(Unofficial) Test website for the school board of Amherst, New Hampshire"
-  publisher: "Amherst School Board"
+  description: "A Blog discussing about Cameras, Digital Cameras, Photography and its Softwares"
+  publisher: "GizmoGod"
   publisherLogo: "images/logo-thumbnail.png"
   publisherLogoWidth: 220
   publisherLogoHeight: 220
@@ -31,4 +28,4 @@ params:
     home: "right"
     list: "right"
     single: "right"
-    widgets: ["search", "recent", "calendar", "categories", "taglist"]
+    widgets: ["search", "recent","categories", "taglist"]

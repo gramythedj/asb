@@ -9,7 +9,5 @@ imageAlt: ""
 imageCap: ""
 draft: false
 ---
-
 Welcome to the buy-digital-camera.org Website
 
----

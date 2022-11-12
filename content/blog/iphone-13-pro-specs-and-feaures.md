@@ -2,8 +2,7 @@
 title: Apple iPhone 13 Pro
 description: the Thunder iphone.
 date: 2022-07-30
-thumbnail: gsmarena_007.jpg
-thumbnailAlt: iphone SE
+permalink: '/posts/iphone-13-pro-specs-and-feaures/'
 tags:
   - iphone
   - apple

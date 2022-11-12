@@ -1,6 +1,6 @@
 ---
 permalink: '/best-microscope-camera-review/'
-title: Best Microscope Camera Review | Buyer’s Guide
+title: Best Microscope Camera Review
 description: a little Review on best microscopic Cameras 
 date: 2022-09-15
 thumbnail: micros.jpg
@@ -21,23 +21,7 @@ It is important to be aware that these are a sophisticated piece of kit, you nee
 Also Check:  [Best USB endoscope camera](https://buy-digital-camera.org/best-usb-endoscope-camera/)
 
 
-  [ROTEK Wireless Digital Microscope](#https://amzn.to/3xr4hD3)
 
-[Fusion WiFi USB Digital Handheld Microscope](#https://amzn.to/3xpH83S)
-
-[SVP DM540 2.7″ LCD Digital Mobile Microscope/Magnifier with Build-in Camera](#https://amzn.to/3diGzlO)
-
-[Most cam 1080P Full HD Digital Microscope](#https://amzn.to/3ROOBlt)
-
-[OMAX 5MP USB3.0 Digital Camera for Microscope](#https://amzn.to/3S5v5kd)
-
-[Plugable USB 2.0 Digital Microscope with Flexible Arm](#https://amzn.to/3xtlEU2)
-
-[Carson MicroFlip LED and UV Lighted Pocket Microscope](#https://amzn.to/3ROHf1k)
-
-[SKYBASIC Wireless Digital Microscope](#https://amzn.to/3UpIo19)
-
-[SKYBASIC 4.3 inch LCD Digital Microscope](#https://amzn.to/3RKS3gF)
 
 ### Buyer’s guide microscope cameras
 Features to look:

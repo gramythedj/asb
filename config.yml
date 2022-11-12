@@ -3,7 +3,7 @@ languageCode: "en-US"
 title: "buy-digital-camera.org"
 theme: "mainroad"
 disqusShortname: "" # Enable comments by entering your Disqus shortname
-googleAnalytics: "" # Enable Google Analytics by entering your tracking id
+googleAnalytics: "G-LB49P4CLJV" # Enable Google Analytics by entering your tracking id
 # sectionPagesMenu: "secondary"
 # pluralizeListTitles: false
 # copyright: "Attribution-NonCommercial-ShareAlike 4.0 International"
@@ -18,10 +18,10 @@ enableRobotsTXT: true
 params:
   description: "A Blog discussing about Cameras, Digital Cameras, Photography and its Softwares"
   publisher: "GizmoGod"
-  publisherLogo: "images/logo-thumbnail.png"
+  publisherLogo: "images/astro.webp"
   publisherLogoWidth: 220
   publisherLogoHeight: 220
-  email: "asbwebsite@sau39.org"
+  email: "pkshanewatson007@gmail.com"
   style:
       vars:
         highlightColor: "#A6363C"

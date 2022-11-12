@@ -9,7 +9,7 @@ imageAlt: ""
 imageCap: ""
 draft: false
 ---
-Welcome to the buy-digital-camera.org Website
+Welcome to the buy-digital-camera.org Website,
 <br>
 A Blog discussing about Cameras, Digital Cameras, Photography and its Softwares
 

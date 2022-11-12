@@ -3,7 +3,7 @@ url: '/best-budget-dash-cams-under-100/'
 title:  Best Budget Dash Cams Under 100
 description: a little Review on Dash Cams Under 100
 date: 2022-09-17
-thumbnail: dashcam.jpg
+thumbnail: images/dashcam.jpg
 thumbnailAlt: dash Cam
 tags:
   - camera

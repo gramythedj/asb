@@ -3,7 +3,7 @@ url: '/best-rear-view-mirror-dashcam/'
 title: Best Rear View Mirror Dashcam
 description: a little Review on Rear View Mirror Dashcam
 date: 2022-09-16
-thumbnail: rearview.jpg
+thumbnail: images/rearview.jpg
 thumbnailAlt: dash camera
 tags:
   - camera

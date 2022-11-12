@@ -3,7 +3,7 @@ url: '/best-hidden-camera-for-cars/'
 title:  Best Hidden Camera For Cars
 description: a little Review on Hidden Spy Cameras
 date: 2022-09-20
-thumbnail: enjispy.jpg
+thumbnail: images/enjispy.jpg
 thumbnailAlt: Hidden spy Cam
 tags:
   - camera

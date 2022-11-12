@@ -3,7 +3,7 @@ url: '/best-binoculars-with-camera/'
 title:  Best Binoculars With Camera
 description: a little Review on Binoculars Cameras
 date: 2022-09-19
-thumbnail: binocular.jpg
+thumbnail: images/binocular.jpg
 thumbnailAlt: Binocular Camera
 tags:
   - camera

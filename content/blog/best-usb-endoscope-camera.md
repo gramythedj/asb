@@ -3,7 +3,7 @@ url: '/best-usb-endoscope-camera/'
 title: Best USB Endoscope Camera
 description: a little Review on USB endoscope cameras 
 date: 2022-09-14
-thumbnail: endoscope.jpg
+thumbnail: images/endoscope.jpg
 thumbnailAlt: endoscope camera
 tags:
   - camera

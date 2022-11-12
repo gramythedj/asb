@@ -3,7 +3,7 @@ url: '/best-microscope-camera-review/'
 title: Best Microscope Camera Review
 description: a little Review on best microscopic Cameras 
 date: 2022-09-15
-thumbnail: micros.jpg
+thumbnail: images/micros.jpg
 thumbnailAlt: microscopic camera
 tags:
   - camera

@@ -3,7 +3,7 @@ url: '/best-stealth-camera-reviews/'
 title: Best Stealth Camera Reviews
 description: a little Review on Stealth Cameras 
 date: 2022-09-13
-thumbnail: stealthcam.png
+thumbnail: images/stealthcam.png
 thumbnailAlt: stealth camera
 tags:
   - camera

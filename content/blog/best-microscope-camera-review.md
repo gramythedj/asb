@@ -1,5 +1,5 @@
 ---
-permalink: '/best-microscope-camera-review/'
+url: '/best-microscope-camera-review/'
 title: Best Microscope Camera Review
 description: a little Review on best microscopic Cameras 
 date: 2022-09-15

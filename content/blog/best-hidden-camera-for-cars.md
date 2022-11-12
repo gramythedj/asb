@@ -1,5 +1,5 @@
 ---
-permalink: '/best-hidden-camera-for-cars/'
+url: '/best-hidden-camera-for-cars/'
 title:  Best Hidden Camera For Cars
 description: a little Review on Hidden Spy Cameras
 date: 2022-09-20

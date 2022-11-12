@@ -1,5 +1,5 @@
 ---
-permalink: '/best-stealth-camera-reviews/'
+url: '/best-stealth-camera-reviews/'
 title: Best Stealth Camera Reviews
 description: a little Review on Stealth Cameras 
 date: 2022-09-13

@@ -1,5 +1,5 @@
 ---
-permalink: '/best-usb-endoscope-camera/'
+url: '/best-usb-endoscope-camera/'
 title: Best USB Endoscope Camera
 description: a little Review on USB endoscope cameras 
 date: 2022-09-14

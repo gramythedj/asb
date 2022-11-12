@@ -1,5 +1,5 @@
 ---
-permalink: '/best-intraoral-dental-camera/'
+url: '/best-intraoral-dental-camera/'
 title:  Best Intraoral dental cameras
 description: a little Review on Intraoral Dental Camera
 date: 2022-09-19

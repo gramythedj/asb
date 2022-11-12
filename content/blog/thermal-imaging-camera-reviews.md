@@ -1,5 +1,5 @@
 ---
-permalink: '/thermal-imaging-camera-reviews/'
+url: '/thermal-imaging-camera-reviews/'
 title: Thermal Imaging Camera Reviews 
 description: a little Review on Thermal Imaging Camera
 date: 2022-09-16

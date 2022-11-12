@@ -1,5 +1,5 @@
 ---
-permalink: '/best-alarm-clock-spy-camera/'
+url: '/best-alarm-clock-spy-camera/'
 title:  Best Alarm Clock Spy Camera
 description: a little Review on Alarm Spy Cameras
 date: 2022-09-20

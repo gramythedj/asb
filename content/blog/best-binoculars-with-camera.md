@@ -1,5 +1,5 @@
 ---
-permalink: '/best-binoculars-with-camera/'
+url: '/best-binoculars-with-camera/'
 title:  Best Binoculars With Camera
 description: a little Review on Binoculars Cameras
 date: 2022-09-19

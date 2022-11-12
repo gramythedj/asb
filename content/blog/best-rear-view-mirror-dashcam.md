@@ -1,5 +1,5 @@
 ---
-permalink: '/best-rear-view-mirror-dashcam/'
+url: '/best-rear-view-mirror-dashcam/'
 title: Best Rear View Mirror Dashcam
 description: a little Review on Rear View Mirror Dashcam
 date: 2022-09-16

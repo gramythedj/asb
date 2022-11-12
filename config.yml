@@ -13,6 +13,7 @@ author:
   name: "GizmoGod"
   email: "Gizmogod@gmail.com"
 
+enableRobotsTXT: true
 
 params:
   description: "A Blog discussing about Cameras, Digital Cameras, Photography and its Softwares"

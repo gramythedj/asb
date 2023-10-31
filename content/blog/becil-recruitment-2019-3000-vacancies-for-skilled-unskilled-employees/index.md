@@ -1,0 +1,53 @@
+---
+title: "Becil Recruitment 2019 | 3000 Vacancies For Skilled/Unskilled Employees"
+date: "2019-09-06"
+categories: 
+  - "job-notification"
+tags: 
+  - "becil"
+  - "becil-bharti"
+  - "becil-bharti-2019"
+  - "becil-career"
+  - "becil-je-2019"
+  - "becil-jobs"
+  - "becil-jobs-2019"
+  - "becil-mts"
+  - "becil-recruitment"
+  - "becil-recruitment-2019"
+  - "becil-vacancy"
+  - "becil-vacancy-2019"
+  - "becil-vacancy-notification2019"
+  - "becil-walk-in"
+  - "how-to-apply-becil-2019"
+  - "job-in-becil"
+  - "jobs-in-becil"
+  - "new-becil-jobs"
+---
+
+Becil Recruitment 2019: Broadcast Engineering Consultants India Limited Has Published Recruitment Notification For Skilled/Unskilled Employees purely on Contract Basis. Good Chance For Those Candidates who finding 8th Pass 10th pass job in Uttar Pradesh. Total 3000 Vacancies of Skilled/unskilled Candidates in Becil Company. Eligible Candidates can Apply Online for Becil jobs. Becil Recruitment 2019 Apply Online Starts on 06-09-2019 to 16-09-2019. Interested Candidates Can Read the Full Notification Before Apply Online and know Becil Vacancy Details Like Eligibility, Education Qualification, Salary, Application Fee, Etc. Given In this Page below.
+
+## Becil Recruitment 2019 | 3000 Vacancies For Skilled/Unskilled Employees
+
+<table style="height: 654px; width: 84.9475%; border-collapse: collapse; border-style: double;"><tbody><tr style="height: 80px;"><td style="width: 100%; text-align: center; height: 50px;" colspan="2"><span style="font-size: 12pt;">Broadcast Engineering Consultants India Limited</span><div></div><span style="font-size: 12pt;">Becil Jobs</span><div></div><span style="font-size: 12pt;">3000 Skilled/Unskilled Manpower</span></td></tr><tr style="height: 30px;"><td style="width: 100%; height: 30px; background-color: #2a5a8e; text-align: center;" colspan="2"><h3><span style="color: #ffffff;"><strong>&nbsp;Important Dates</strong></span></h3></td></tr><tr style="height: 22px;"><td style="width: 50%; text-align: center; height: 22px;"><span style="font-size: 12pt;">Date of Opening</span></td><td style="width: 50%; text-align: center; height: 22px;"><span style="font-size: 12pt;">06-09-2019</span></td></tr><tr style="height: 22px;"><td style="width: 50%; text-align: center; height: 22px;"><span style="font-size: 12pt;">Date of Closing</span></td><td style="width: 50%; text-align: center; height: 22px;"><span style="font-size: 12pt;">16-09-2019</span></td></tr><tr><td style="width: 50%; text-align: center;"><span style="font-size: 12pt;">Date of Interaction/Documents Verification Tentative Date&nbsp;</span></td><td style="width: 50%; text-align: center;"><span style="font-size: 12pt;">16-09-2019 to 20-09-2019</span></td></tr><tr><td style="width: 50%; text-align: center;"><span style="font-size: 12pt;">Date of Joining</span></td><td style="width: 50%; text-align: center;"><span style="font-size: 12pt;">01-10-2019</span></td></tr><tr style="height: 30px;"><td style="width: 100%; height: 30px; background-color: #2a5a8e; text-align: center;" colspan="2"><h3><span style="color: #ffffff;"><strong>&nbsp;Vacancy Details</strong></span></h3></td></tr><tr style="height: 22px;"><td style="text-align: center; height: 22px; width: 50%;"><span style="font-size: 12pt;">Job Recruitment Board</span></td><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">Becil Recruitment</span></td></tr><tr><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">Post Name</span></td><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">Skilled/Unskilled Manpower</span></td></tr><tr><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">No of Vacancies</span></td><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">3000</span></td></tr><tr><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">Job Location</span></td><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">Uttar Pradesh</span></td></tr><tr><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">Application Mode</span></td><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">Online/offline</span></td></tr><tr><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">Payment Mode</span></td><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">Demand Draft</span></td></tr><tr><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">Age Limits</span></td><td style="text-align: center; width: 50%;"><span style="font-size: 12pt;">18 Years to 45 Years</span></td></tr><tr style="height: 30px;"><td style="width: 100%; height: 30px; background-color: #2a5a8e; text-align: center;" colspan="2"><h3><span style="color: #ffffff;"><strong>Eligibility Criteria&nbsp;</strong></span></h3></td></tr><tr style="height: 14px;"><td style="width: 50%; text-align: center; height: 14px;"><span style="font-size: 12pt;"><strong>Post Name</strong></span></td><td style="width: 50%; text-align: center; height: 14px;"><strong><span style="font-size: 12pt;">Education Qualification</span></strong></td></tr><tr style="height: 30px;"><td style="width: 50%; text-align: center; height: 30px;"><span style="font-size: 12pt;">Skilled Manpower(1500 Posts)</span></td><td style="width: 50%; text-align: center; height: 30px;"><ul><li style="text-align: left;"><span style="font-size: 12pt;">ITI Certificate In Electrical Trade or Wireman as Recognized by NCVT or SCVT or Higher Technical Degree Diploma in Engineering.</span></li><li style="text-align: left;"><span style="font-size: 12pt;">Two Year Experience</span></li></ul></td></tr><tr><td style="width: 50%; text-align: center;"><span style="font-size: 12pt;">Unskilled Manpower(1500 Posts)</span></td><td style="width: 50%; text-align: center;"><ul><li style="text-align: left;"><span style="font-size: 12pt;">8th Pass</span></li><li style="text-align: left;"><span style="font-size: 12pt;">One Year Experience</span></li></ul></td></tr><tr><td style="width: 50%; background-color: #2a5a8e; text-align: center;" colspan="2"><h3><span style="color: #ffffff;"><strong>Becil Salary</strong></span></h3></td></tr><tr><td style="width: 50%; text-align: center;" colspan="2"><span style="font-size: 12pt;">Skilled Manpower Rs. 9381</span><div></div><span style="font-size: 12pt;">Unskilled Manpower Rs. 7613</span></td></tr><tr style="height: 30px;"><td style="width: 100%; height: 30px; background-color: #2a5a8e; text-align: center;" colspan="2"><h3><span style="color: #ffffff;"><strong>Application Fee&nbsp;</strong></span></h3></td></tr><tr style="height: 30px;"><td style="width: 100%; text-align: center; height: 30px;" colspan="2"><span style="font-size: 12pt;">General/OBC Candidates- Rs. 500/-</span><div></div><span style="font-size: 12pt;">SC/ST/PH Candidates- Rs. 250/-</span><div></div>(Non-Refundable)</td></tr><tr style="height: 30px;"><td style="width: 100%; height: 30px; background-color: #2a5a8e; text-align: center;" colspan="2"><h3><span style="color: #ffffff;"><strong>Important Links&nbsp;</strong></span></h3></td></tr><tr style="height: 10px;"><td style="width: 50%; text-align: center; height: 10px;"><strong><span style="font-size: 12pt;">Apply Online&nbsp;</span></strong></td><td style="width: 50%; text-align: center; height: 10px;"><span style="color: #ff0000;"><strong><span style="font-size: 12pt;"><a style="color: #ff0000;" href="http://www.beciljobs.com" target="_blank" rel="noopener noreferrer">Click Here</a></span></strong></span></td></tr><tr><td style="width: 50%; text-align: center;"><strong><span style="font-size: 12pt;">Offline Application Form</span></strong></td><td style="width: 50%; text-align: center;"><span style="color: #ff0000;"><a style="color: #ff0000;" href="https://freegovtjobalert.in/wp-content/uploads/2019/09/Becil-Application-form.pdf" target="_blank" rel="noopener noreferrer"><strong><span style="font-size: 12pt;">Click Here</span></strong></a></span></td></tr><tr style="height: 36px;"><td style="width: 50%; text-align: center; height: 23px;"><strong><span style="font-size: 12pt;">Notification</span></strong></td><td style="width: 50%; text-align: center; height: 23px;"><span style="color: #ff0000;"><a style="color: #ff0000;" href="https://freegovtjobalert.in/wp-content/uploads/2019/09/Notification-BECIL-Manpower.pdf" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt;"><strong>Click Here</strong></span></a></span></td></tr><tr style="height: 10px;"><td style="width: 50%; text-align: center; height: 10px;"><strong><span style="font-size: 12pt;">&nbsp;Official Website</span></strong></td><td style="width: 50%; text-align: center; height: 10px;"><span style="color: #ff0000;"><a style="color: #ff0000;" href="https://www.becil.com/" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt;"><strong>Click Here&nbsp;</strong></span></a></span></td></tr></tbody></table>
+
+### **How To Apply For Becil Jobs Skilled/Unskilled Manpower?**
+
+**Candidates Can Apply Online or Offline**
+
+1. **For Online** Apply Candidates First Goto Becile Jobs Official Website: [www.beciljobs.com](http://www.beciljobs.com)
+2. Select Skilled or UnSkilled Manpower And Click Apply Button
+3. Fill up **BECIL CONTRACTUAL MANPOWER REGISTRATION FORM.**
+4. Pay Application Fee Via DD or Account Transfer.
+5. Done
+6. **Offline Application:** Download Application Form Fillup All Details
+7. Attach Your Document Copies With Form.
+8. Attach Application Payment Receipt, Demand Draft With Application Form.
+9. Post to This Address: To, Mr. Awadhesh Pandit, Dy. General Manager (F & A) Secretory to the Board/CPIO Broadcast Engineering Consultants India Ltd. BECIL Bhawan C-56/A-17,Sector-62 Noida -201307 (Uttar Pradesh)
+
+> Here Candidates Can Find All India Governemnt Job Notification, Upcoming Govt Jobs, State Govt Jobs, Bank Jobs, Defence Jobs, Privet Jobs Alert, All Sarkari Results, Public Sector Companies, Public Sector Banks, Indian Railway, Army, Navy, Air Force and Government organizing Institutions, Organizations and Universities, Free Govt Job Alert And Bookmark Our Website For More Govt Jobs: [www.FreeGovtJobAlert.in](https://freegovtjobalert.in)
+
+**Check This Pages For Job Vacancy:**
+
+- [Latest All India Government Jobs Notifications 2019](https://freegovtjobalert.in/government-jobs/)
+- [Latest Bank Jobs Vacancy Notification 2019](https://freegovtjobalert.in/bank-jobs-recruitment/)
+- [Latest State Wise Government Job Notification 2019](https://freegovtjobalert.in/state-govt-jobs/)

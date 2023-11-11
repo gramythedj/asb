@@ -9,7 +9,7 @@ googleAnalytics: "G-LB49P4CLJV" # Enable Google Analytics by entering your track
 # copyright: "Attribution-NonCommercial-ShareAlike 4.0 International"
 
 permalinks:
-  posts: ":filename"
+  blog: ":filename"
 paginate: 7
 summaryLength: 13
 author:

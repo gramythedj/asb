@@ -18,8 +18,8 @@ author:
 
 enableRobotsTXT: true
 
-disableKinds = "taxonomy"
-ignoreErrors = "error-disable-taxonomy"
+disableKinds: "taxonomy"
+ignoreErrors: "error-disable-taxonomy"
 
 params:
   description: "A Blog discussing about Cameras, Digital Cameras, Photography and its Softwares"

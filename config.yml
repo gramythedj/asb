@@ -18,6 +18,9 @@ author:
 
 enableRobotsTXT: true
 
+disableKinds = "taxonomy"
+ignoreErrors = "error-disable-taxonomy"
+
 params:
   description: "A Blog discussing about Cameras, Digital Cameras, Photography and its Softwares"
   publisher: "GizmoGod"
@@ -32,4 +35,4 @@ params:
     home: "right"
     list: "right"
     single: "right"
-    widgets: ["search", "recent","categories", "taglist"]
+    widgets: ["search", "recent","categories"]

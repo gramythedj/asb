@@ -7,6 +7,9 @@ googleAnalytics: "G-LB49P4CLJV" # Enable Google Analytics by entering your track
 # sectionPagesMenu: "secondary"
 # pluralizeListTitles: false
 # copyright: "Attribution-NonCommercial-ShareAlike 4.0 International"
+
+permalinks:
+  posts: ":filename"
 paginate: 7
 summaryLength: 13
 author:

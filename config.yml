@@ -1,6 +1,6 @@
-baseURL: "https://buy-digital-camera.org/"
+baseURL: "https://freegovtjobalert.in"
 languageCode: "en-US"
-title: "buy-digital-camera.org"
+title: "Jobs and News Search Engine"
 theme: "mainroad"
 disqusShortname: "" # Enable comments by entering your Disqus shortname
 googleAnalytics: "G-LB49P4CLJV" # Enable Google Analytics by entering your tracking id
@@ -13,8 +13,8 @@ permalinks:
 paginate: 7
 summaryLength: 13
 author:
-  name: "GizmoGod"
-  email: "Gizmogod@gmail.com"
+  name: "Praveen Kumar"
+  email: "officialpraveen53@gmail.com"
 
 enableRobotsTXT: true
 
@@ -22,12 +22,12 @@ taxonomies:
   category: "categories"
 
 params:
-  description: "A Blog discussing about Cameras, Digital Cameras, Photography and its Softwares"
-  publisher: "GizmoGod"
+  description: "freegovtjobalert.in is providing latest info regarding government jobs and privet jobs, job requirement, job admits card, job call later, exam result."
+  publisher: "Praveen Kumar"
   publisherLogo: "images/astro.webp"
   publisherLogoWidth: 220
   publisherLogoHeight: 220
-  email: "pkshanewatson007@gmail.com"
+  email: "officialpraveen53@gmail.com"
   style:
       vars:
         highlightColor: "#A6363C"
@@ -35,4 +35,4 @@ params:
     home: "right"
     list: "right"
     single: "right"
-    widgets: ["search", "recent","categories"]
+    widgets: ["search", "recent",]

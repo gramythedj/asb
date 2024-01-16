@@ -1,7 +1,5 @@
-# Amherst School Board Website
-
-A prototype of a website for the Amherst, New Hampshire school board.
+# freegovtjobalert.in news website
 
 Made with [Hugo](https://gohugo.io/) and the [Mainroad](https://github.com/Vimux/Mainroad/) theme.
 
-© 2021 Amherst School Board, Amherst, NH.
+© 2024 FreegovtJobalert.in Jobs and News site 
